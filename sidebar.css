@@ -1,0 +1,116 @@
+.side-bar{
+    background-color: white;
+    position: fixed;
+    left: 0px;
+    top: 80px;
+    bottom: 0px;
+   width: 70px;
+   justify-content: space-between;
+}
+.explore-button{
+    height: 60px;
+    width: 60px;
+    border: none;
+    border-radius: 40px;
+    margin-left: 10px;
+    background-color: white
+}
+.explore-icon{
+    height: 40px;
+    margin-top: 4px;
+    opacity: 0.7;
+}
+.home-button{
+    height: 60px;
+    width: 60px;
+    border: none;
+    border-radius: 40px;
+    margin-left: 10px;
+    background-color: white
+}
+.home-icon{
+    height: 40px;
+    margin-top: 4px;
+    opacity: 0.7;
+}
+.library-button{
+    height: 60px;
+    width: 60px;
+    border: none;
+    border-radius: 40px;
+    margin-left: 10px;
+    background-color: white
+}
+.library-icon{
+    height: 40px;
+    margin-top: 4px;
+    opacity: 0.7;
+}
+.originals-button{
+    height: 60px;
+    width: 60px;
+    border: none;
+    border-radius: 40px;
+    margin-left: 10px;
+    background-color: white
+}
+.originals-icon{
+    height: 40px;
+    margin-top: 4px;
+    opacity: 0.7;
+}
+.subcriptions-button{
+    height: 60px;
+    width: 60px;
+    border: none;
+    border-radius: 40px;
+    margin-left: 10px;
+    background-color: white
+}
+.subcriptions-icon{
+    height: 40px;
+    margin-top: 4px;
+    opacity: 0.7;
+}
+.youtubemusic-button{
+    height: 60px;
+    width: 60px;
+    border: none;
+    border-radius: 40px;
+    margin-left: 10px;
+    background-color: white
+}
+.youtubemusic-icon{
+    height: 40px;
+    margin-top: 4px;
+    opacity: 0.7;
+}
+.explore-button:hover{
+    background-color: lightgray;
+    
+}
+
+.home-button:hover{
+    background-color: lightgray;
+    
+}
+
+.library-button:hover{
+    background-color: lightgray;
+    
+}
+.originals-button:hover{
+    background-color: lightgray;
+    
+}
+.subcriptions-button:hover{
+    background-color: lightgray;
+    
+}
+.youtubemusic-button:hover{
+    background-color: lightgray;
+    
+}
+
+    
+    
